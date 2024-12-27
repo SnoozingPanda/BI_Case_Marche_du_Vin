@@ -37,8 +37,8 @@ L'objectif ici sera de comparer chacun des vins du client par rapport à ses con
 
 ## Proposition de valeur
 
-Avec le tableau de bord que vous lui avez fourni, le client a une idée précise de ses concurrents. Faire une proposition de prix en fonction de sa volonté de positionnement (par exemple : "si vous souhaitez vous positionner sur le haut de gamme, les 25% les plus chers de vos concurrents sont à ce tarif, nous vous conseillons donc de vous aligner sur ce prix").
+Avec le tableau de bord que nous lui avons fourni, le client a une idée précise de ses concurrents. Faire une proposition de prix en fonction de sa volonté de positionnement (par exemple : "si vous souhaitez vous positionner sur le haut de gamme, les 25% les plus chers de vos concurrents sont à ce tarif, nous vous conseillons donc de vous aligner sur ce prix").
 
 ## Qualité esthétique du tableau de bord
 
-Essayer de garder un oeil critique et visuel sur le tableau de bord. La forme compte autant que le fond pour le client qui n'est pas data analyst. Penser donc à "vendre" notre analyse. Par exemple, avec des couleurs s'inspirant du milieu vinicole, des dataviz originales, etc...
+Essayer de garder un oeil critique et visuel sur le tableau de bord. La forme compte autant que le fond pour le client qui n'est pas data analyst, penser donc à "vendre" notre analyse. Par exemple, avec des couleurs s'inspirant du milieu vinicole, des dataviz originales, etc...
